@@ -31,6 +31,7 @@ This Apple script does the following:
 ### Adapt the script to your machine
 - Add the path to your Zotero `storage` folder in POSIX form ("/path/to/folder")
 - Add the name of the database where your papers are stored
+- Export as script and place in target location (e.g. scripts folder of an application) 
 
 ### Install
 - Copy the AppleScript to your scripts folder (Scripts -> open script folder)
